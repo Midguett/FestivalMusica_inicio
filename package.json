@@ -20,6 +20,7 @@
     "gulp-clean-css": "^4.3.0",
     "gulp-plumber": "^1.2.1",
     "gulp-sass": "^5.1.0",
+    "gulp-webp": "^4.0.1",
     "sass": "^1.64.2"
   },
   "dependencies": {
