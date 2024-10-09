@@ -1,4 +1,4 @@
 {
-    "workbench.editor.showTabs": true,
+    "workbench.editor.showTabs": "multiple",
     "workbench.editor.highlightModifiedTabs": true
 }
